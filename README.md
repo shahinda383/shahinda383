@@ -33,18 +33,6 @@
   <img src="https://img.shields.io/badge/Project%20Management-007ACC?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahinda383&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinda383&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahinda383&theme=algolia&row=1&no-bg=true"/>
-</p>
 
 ---
 
