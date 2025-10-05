@@ -4,7 +4,6 @@
 </p>
 
 <!-- ===================== TITLE ===================== -->
-<h1 align="center">👋 Hello, I'm <span style="color:#7B68EE;">Shahinda Ibrahim</span></h1>
 <h3 align="center">🚀 Data Scientist | 🤖 AI Enthusiast | ✍ Content Writer | 📊 Project Management Trainee</h3>
 
 ---
