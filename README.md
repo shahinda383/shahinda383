@@ -1,5 +1,6 @@
-![Image](https://github.com/user-attachments/assets/0c5be8a4-c055-458e-873c-b9aaef240f8a)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c5be8a4-c055-458e-873c-b9aaef240f8a" alt="Image">
+</p>
 <h2 align="center"> Hello, I'm <span style="color:#2E8B57;">Shahinda Ibrahim</span> </h2>
 <h3 align="center">Data Scientist | AI Enthusiast | Content Writer | Project Management Trainee</h3>
 
